@@ -1,6 +1,5 @@
-Tyche (http://tychessa.github.io)
-=================================
 Copyright (C) 2013 Martin Robinson (martin.robinson@maths.ox.ac.uk)
+
 Point your browser to http://people.maths.ox.ac.uk/robinsonm/index.html for more information about the author and other work.
 
 Tyche is a multiscale stochastic reaction-diffusion modelling software library. It consists of:
